@@ -18,8 +18,8 @@ if (!isNaN(fontSizeValue)) {
 
 document.font('media/Lato-Regular.ttf')
   .fontSize(16)
-  .text('Klasa: [Twoja Klasa]', { align: 'center' })
-  .text('Nazwisko i Imię: [Twoje Nazwisko i Imię]', { align: 'center' });
+  .text('Klasa: 4tp', { align: 'center' })
+  .text('Nazwisko i Imię: Polowczyk Wiktoria', { align: 'center' });
 
 
 const logoPath = 'media/zse-logo.png';
